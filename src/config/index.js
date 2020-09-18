@@ -2,7 +2,7 @@ module.exports = {
 
     author: "@konstantinmuenster",
     siteTitle: "Gatsby Starter Portfolio Minimal",
-    siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
+    siteShortTitle: "Akira Anzawa", // Used as logo text in header, footer, and splash screen
     siteDescription: "A modern one-page portfolio with a clean yet expressive design.",
     siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
     siteLanguage: "en_US",
@@ -20,28 +20,20 @@ module.exports = {
     socialMedia: [
         {
             name: "Linkedin",
-            url: "https://www.linkedin.com/in/konstantin-muenster/"
+            url: "https://www.linkedin.com/in/akira-anzawa/"
         },
         {
-            name: "Medium",
-            url: "https://medium.com/@konstantin.muenster"
+            name: "Twitter",
+            url: "https://twitter.com/aki_anz_io"
         },
         {
             name: "Github",
-            url: "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal"
-        },
-        {
-            name: "Behance",
-            url: "https://www.behance.net/konstanmnster"
+            url: "https://github.com/aki-anz"
         },
     ],
   
     navLinks: {
         menu: [
-            {
-                name: "Articles",
-                url: "/#articles",
-            },
             {
                 name: "About Me",
                 url: "/#about",
@@ -59,11 +51,11 @@ module.exports = {
 
     footerLinks: [
         {
-            name: "Privacy",
+            name: "Quote",
             url: "/privacy"
         },
         {
-            name: "Imprint",
+            name: "Advice",
             url: "/imprint"
         }
     ]
