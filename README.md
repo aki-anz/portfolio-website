@@ -1,4 +1,4 @@
-# Portfolio Website built On Gatsby Starter
+# Portfolio Website built on Gatsby Starter
 
 This is a repository of my portfolio website built on [Gatsby](https://www.gatsbyjs.com/).
 
